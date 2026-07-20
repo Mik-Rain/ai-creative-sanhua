@@ -1,0 +1,7 @@
+Positive Prompt：
+
+Disregard the previous bed scene. Generate a mature catgirl with tricolor (black, white, orange) long wavy hair, amber eyes, soft cat ears with orange fluff on tips, and a fluffy tri-colored tail. She wears a cozy knit midi dress layered over an off-shoulder chunky sweater, with bare feet. Pose: standing by a sunlit window at dusk, holding a bunch of fresh chamomile flowers in both arms, gently leaning against the window frame, her tail loosely curling around her own waist, gaze soft and dreamy looking slightly outside, with a relaxed and content expression. Background: A serene bedroom with a white ceramic vase of chamomile on the bedside table, warm golden-orange sunset light streaming through sheer curtains, casting long gentle shadows, a soft breeze moving the drapes, the room filled with warm floral and cozy home atmosphere. Style: Semi-realistic anime style, sharp focus, cinematic composition, masterpiece, best quality, 8k, warm sunset color palette, bokeh effect on background.
+
+Negative Prompt：
+
+reference background, bed, lying down, sofa, floor, indoor (but no specific clutter), loli, flat chest, extra fingers, bad anatomy, animal snout, furry full-body suit, blurry, lowres, watermark, text, ugly, deformed, twisted body, unnatural pose, sleeping, messy bed hair, night scene, cold tones, overexposed.

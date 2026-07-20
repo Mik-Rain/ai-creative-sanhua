@@ -1,0 +1,25 @@
+# Force LF line endings for all text files (esp. Markdown) — keeps
+# cross-platform diffs clean and avoids Windows CRLF noise.
+* text=auto
+
+# Markdown must be LF
+*.md text eol=lf
+
+# Shell / config / code
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.py text eol=lf
+
+# Binary (no conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.webm binary
+*.mov binary
+*.pdf binary
