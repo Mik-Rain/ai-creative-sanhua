@@ -42,7 +42,7 @@ ai-creative-sanhua/
 ├── 视频创作/                        # v1:9 段分段 prompt(10s/段上限)
 │   ├── README.md
 │   ├── 01_段01_…md ~ 09_段09_…md
-│   └── Vedio-doubao/               # 早期豆包平台试验素材
+│   └── video-doubao/               # 早期豆包平台试验素材
 └── 视频创作v2/                      # ★ 当前生产版:5 段分段(15s/段)
     ├── README.md                   #   v2 总览(段间冗余 + @ 引用体系)
     ├── 01_段01_…md
@@ -150,7 +150,7 @@ ai-creative-sanhua/
 ├── 视频创作/                        # v1: 9 segments (10s/segment cap)
 │   ├── README.md
 │   ├── 01_段01_…md ~ 09_段09_…md
-│   └── Vedio-doubao/               # Early Doubao platform experiments
+│   └── video-doubao/               # Early Doubao platform experiments
 └── 视频创作v2/                      # ★ Current production: 5 segments (15s/segment)
     ├── README.md
     ├── 01_段01_…md

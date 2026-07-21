@@ -1,5 +1,5 @@
 ---
-title: Vedio-doubao·9 段视频拼接成品
+title: video-doubao·9 段视频拼接成品
 type: moc
 category: AI创作-三花
 tags: [MOC, 视频, 拼接, ffmpeg, 温柚, 豆包, AI创作]
@@ -9,9 +9,11 @@ related:
   - "../../00-AI创作-三花地图"
 created: 2026-07-21
 updated: 2026-07-21
+changelog:
+  - 2026-07-21: 目录名 Vedio-doubao → video-doubao(修正拼写)
 ---
 
-# Vedio-doubao·9 段视频拼接成品
+# video-doubao·9 段视频拼接成品
 
 > 本目录存放**豆包平台生成的 9 段原始视频** + **拼接后的完整成品**。
 > 9 段按 `视频创作项目准备 (1)~(9).mp4` 顺序拼接,对应 [[../03 分镜脚本01]] 的 9 段分段 prompt。
